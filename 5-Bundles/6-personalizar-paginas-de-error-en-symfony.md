@@ -2,7 +2,7 @@ En las **aplicaciones Symfony**, todos los errores se tratan como excepciones, n
 
 En el **entorno de desarrollo**, Symfony captura todas las excepciones y muestra una página especial de excepciones con abundante información de depuración para ayudar a resolver fácilmente un problema. 
 
-Ya que estas páginas ocntienen abundante información interna sensible, Symfony no los mostrará en el **entorno de producción**. A cambio, muestra una **página de error genérica**.
+Ya que estas páginas contienen abundante información interna sensible, Symfony no los mostrará en el **entorno de producción**. A cambio, muestra una **página de error genérica**.
 
 Las páginas de error para el entorno de producción pueden customizarse de diferentes formas en función de tus necesidades:
 
